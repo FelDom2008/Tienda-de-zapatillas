@@ -1,0 +1,61 @@
+#TITULO_PPAL{
+
+    color:lightslategray;
+    border: 2px wheat;
+    border-style: outset;
+    text-align: center;
+
+}
+
+#TITULO_SEC{
+
+    color: black;
+    border: 1px lightgray;
+    border-style: inset;
+    text-align: center;
+
+}
+
+#TITULO_TERC{
+
+    color: limegreen;
+    border: 1px lightgray dashed;
+    text-align: center;
+
+}
+
+#imagen{
+
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.texto{
+
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    border: 5px palevioletred;
+    border-style: solid;
+}
+
+#colores{
+
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+#cred{
+
+    text-align: center;
+    margin: 0 auto;
+}
+
+#opcion{
+    display: block;
+    margin: 0 auto;
+}
